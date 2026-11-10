@@ -1,0 +1,15 @@
+# Never commit firmware, vendor binaries or camera logs
+home
+rootfs
+home_*
+rootfs_*
+*home_us
+rtspsvr*
+server
+*.zip
+*.tar.gz
+log_*
+*-result.txt
+nointernet-*.txt
+.DS_Store
+Thumbs.db
